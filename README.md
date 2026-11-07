@@ -1,13 +1,13 @@
 <h1 align="center">
   Hi, I'm Nicolás Fernández!
-  <a href="https://github.com/nikillo18">
+  <a href="https://github.com/NicolasFernandez18">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving hand">
   </a>
 </h1>
 
 <p align="center">
-  <a href="https://github.com/nikillo18">
-    <img src="https://readme-typing-svg.demolab.com?lines=Software+Development+Student;Web+Developer+Junior;Open+to+new+opportunities!&center=true&width=480&height=45&color=00b3ff" alt="Typing SVG">
+  <a href="https://github.com/NicolasFernandez18">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=Software+Development+Graduate;Junior+Web+Developer+(Laravel+%2F+PHP);Open+to+IT+Support+%26+QA+roles!&center=true&vCenter=true&width=520&height=45&color=00b3ff" alt="Typing SVG">
   </a>
 </p>
 
@@ -17,9 +17,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm studying **Software Analysis and Development** at *Sedes Sapientiae Institute*.
-- 💼 Currently looking for my **first opportunity** as a **Junior Web Developer**.
-- ⚙️ I build projects using **Laravel**, **MySQL**, **JavaScript**, **HTML**, **CSS**, and **TailwindCSS**.
+- 🎓 I graduated as **Técnico Superior en Análisis y Desarrollo de Software** at *Sedes Sapientiae Institute* (2025).
+- 💼 Currently looking for my **first formal opportunity** in **IT Support / Help Desk**, **QA Manual Testing**, or as a **Junior Web Developer**.
+- ⚙️ I build projects using **Laravel**, **PHP**, **MySQL**, **JavaScript**, **HTML**, **CSS**, and **TailwindCSS**.
+- 🖥️ Comfortable working with **Windows**, **CMD** and **PowerShell**.
 - 🚀 Constantly learning and experimenting with **React** and **ASP.NET Core**.
 - 🌱 I enjoy learning by building real projects and collaborating with others.
 
@@ -31,26 +32,29 @@
 
 ## 🚀 Projects Highlights
 
-- 🐴 **[DreamHorses](https://github.com/nikillo18/DreamHorses)** — Web system for managing a horse stud.
-- 🏗️ **[Sistema de Gestión de Maquinaria Vial](https://github.com/nikillo18/Sistema-de-Gesti-n-de-Maquinaria-Vial)** — System to manage works, machinery, and maintenance.
+- 🐴 **[DreamHorses](https://github.com/NicolasFernandez18/DreamHorses)** — Web system for managing a horse stud.
+- 🏗️ **[Sistema de Gestión de Maquinaria Vial](https://github.com/NicolasFernandez18/Sistema-de-Gesti-n-de-Maquinaria-Vial)** — System to manage works, machinery, and maintenance.
 - 🏠 **[Hosterlan App](https://github.com/juanRGalarraga/hosterlan-app)** — Collaborative platform for temporary rentals.
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=nikillo18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Nico's GitHub stats" />
-  <br>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nikillo18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=NicolasFernandez18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=10" alt="Nico's GitHub stats" />
+  <br><br>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NicolasFernandez18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=10" alt="Top Languages" />
 </div>
 
 ## 💬 Connect with Me
 
 <p align="center">
-  <a href="mailto:nicolasosvaldofer@gmail.com">
+  <a href="mailto:nicolasosvaldofer@gmail.com?subject=Hello%20Nicol%C3%A1s">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/nikillo18">
+  <a href="https://github.com/NicolasFernandez18">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://nicolasfernandeztech.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-00b3ff?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
