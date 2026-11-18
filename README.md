@@ -21,7 +21,6 @@
 - 💼 Currently looking for my **first formal opportunity** in **IT Support / Help Desk**, **QA Manual Testing**, or as a **Junior Web Developer**.
 - ⚙️ I build projects using **Laravel**, **PHP**, **MySQL**, **JavaScript**, **HTML**, **CSS**, and **TailwindCSS**.
 - 🖥️ Comfortable working with **Windows**, **CMD** and **PowerShell**.
-- 🚀 Constantly learning and experimenting with **React** and **ASP.NET Core**.
 - 🌱 I enjoy learning by building real projects and collaborating with others.
 
 ## 🧰 Tech Stack
